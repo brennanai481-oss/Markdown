@@ -1,7 +1,7 @@
 ## Aiden Brennan
 ### Greenspire Highschool
 ---
-```
+```Css
 header    { grid-area: header; }
 nav       { grid-area: nav; }
 main      { grid-area: main; }
