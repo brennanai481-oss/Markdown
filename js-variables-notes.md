@@ -1,9 +1,3 @@
-## Unit 14: Intro to JavaScript
-### Working with Variables & Comments
-
----
-
-### Before You Start Prompting Today
 
 - Copy/paste this markdown (`.md`) file into a **NEW** markdown file in your `js-intro` repo named: `js-variables-notes.md`
 - Copy/paste the prompts below into Gemini
@@ -45,13 +39,9 @@ Before we touch the keyboard, I want to see your blueprint. Imagine you are buil
 **In plain English (no code yet!), tell me:**
 
 1. Which piece of data about a player would stay the same forever (requiring a "safe"), and which might change as the player plays (requiring a "box")?
-
-*Answer here...*
-
+Their birthdate, their height or weight or any score. 
 3. If you had to explain the `=` symbol to a non-coder using the analogy of a "bucket" and a "ball," how would you describe it?
-
-*Answer here...*
-
+the equals is like the action thats happening. 
 ---
 
 ### 💡 Phase 3: A Quick Hint
